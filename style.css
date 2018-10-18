@@ -63,7 +63,7 @@
 			background-color: antiquewhite	;
 			display: inline-block;
 			float:left;
-			margin: 15px 0 0 10px;
+			margin: 15px 25px 0 10px;
 			
 
 			
@@ -79,6 +79,7 @@
 			overflow: hidden;
 			margin-bottom: 20px;
 			padding-bottom: 10px;
+			
 			
 		}
 		.topnav li {
